@@ -1,0 +1,1 @@
+web: gunicorn EducaMas.wsgi --log-file -
